@@ -1,5 +1,5 @@
 ---
-description: Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS.
+description: Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS
 tags: audio
 ---
 

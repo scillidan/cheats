@@ -1,5 +1,5 @@
 ---
-description: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+description: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows
 tags: text
 ---
 

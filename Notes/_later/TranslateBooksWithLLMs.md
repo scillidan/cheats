@@ -1,5 +1,5 @@
 ---
-description: A desktop app that translates books, subtitles, and documents with AI - local or cloud. Drop a file, pick a language, get the result.
+description: A desktop app that translates books, subtitles, and documents with AI - local or cloud. Drop a file, pick a language, get the result
 tags: text
 ---
 

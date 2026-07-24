@@ -1,5 +1,5 @@
 ---
-description: A terminal UI to convert images to ANSI art.
+description: A terminal UI to convert images to ANSI art
 tags: image
 ---
 
