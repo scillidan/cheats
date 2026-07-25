@@ -1,0 +1,27 @@
+---
+description: A feature-rich dictionary lookup program, supporting multiple dictionary formats
+tags: config
+---
+
+- GoldenDict
+	- View
+		- Search Pane (On)
+		- Results Navigation Pane (Off)
+		- Favorites Pane (Off)
+		- History Pane (Off)
+		- Dictionary Bar (Off)
+		- Navigation (Off)
+	- Edit
+		- Preferences
+			- Interface
+				- Hide Single tab (On)
+				- Start to system tray (On)
+				- Select word by single click (On)
+				- ESC key hides main window (On)
+			- Scan Popup
+				- Enable scan popup functionality (Off)
+			- Hotkeys
+				- Use the following hotkey to show or hide the main window: `Alt+Shift+G`
+				- Use the following hotkey to translate a word from clipboard (Off)
+		- Dictionaries
+			- Sources → Transliteration → Chinese Conversion (On)
