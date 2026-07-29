@@ -1,8 +1,3 @@
----
-description: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching
-tags: audio
----
-
 ```sh
 git clone --depth=1 https://github.com/SWivid/F5-TTS
 cd F5-TTS

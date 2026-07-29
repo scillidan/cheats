@@ -1,8 +1,3 @@
----
-description: Convert TXT, EPUB, or PDF files into audiobooks using Kokoro TTS
-tags: audio
----
-
 ```sh
 git clone --depth=1 https://github.com/Pazran/audiobook-kokoro-tts
 cd audiobook-kokoro-tts

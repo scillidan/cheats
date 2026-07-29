@@ -1,8 +1,3 @@
----
-description: Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
-tags: serve,audio
----
-
 ```sh
 git clone --depth=1 https://github.com/remsky/Kokoro-FastAPI
 cd Kokoro-FastAPI
@@ -10,7 +5,7 @@ cd Kokoro-FastAPI
 
 ```sh
 uv venv --python 3.10
-.venv\Scripts\activate
+.venv/Scripts/activate
 # set PHONEMIZER_ESPEAK_LIBRARY="<path_to>\libespeak-ng.dll"
 # set PHONEMIZER_ESPEAK_PATH="<path_to>\espeak-ng.exe"
 set PYTHONUTF8=1

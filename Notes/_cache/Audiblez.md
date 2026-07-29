@@ -1,8 +1,3 @@
----
-description: Generate audiobooks from e-books
-tags: audio
----
-
 ```sh
 # https://github.com/santinic/audiblez
 uv venv .audiblez --python 3.12

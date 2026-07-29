@@ -1,8 +1,3 @@
----
-description: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
-tags: audio
----
-
 ```sh
 git lfs install
 git clone --depth=1 https://github.com/index-tts/index-tts

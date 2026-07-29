@@ -1,8 +1,3 @@
----
-description: A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents
-tags: audio
----
-
 ```sh
 # Pip
 uv tool install kokoro-tts --python 3.12

@@ -1,8 +1,3 @@
----
-description: The minimalistic document archiving platform
-tags: docker
----
-
 ```sh
 # https://docs.papra.app/self-hosting/using-docker-compose
 mkdir papra

@@ -1,0 +1,24 @@
+---
+tags: config
+---
+
+- Obsidian
+	- Settings → Core plugins (On)
+		- Bookmarks
+		- Command palette
+		- File recovery
+		- Files
+		- Outline
+		- Page preview
+		- Slash commands
+		- tags view
+		- Workspaces
+		- Backlinks
+		- Outgoing links
+	- Ribbon (Pinned)
+		- Workspaces: Manage workspace layouts
+		- Home page: Open homepage
+		- BRAT: All Commands list
+		- Media Companion: Open gallery
+		- Calibre: Open horizontally
+		- Word Frequency: Show word frequency sidebar

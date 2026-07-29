@@ -1,9 +1,4 @@
----
-description: Lutris is an open-source gaming platform that makes managing, installing, and optimizing games on Linux easier
-tags: game
----
-
-[^1]
+## Install[^1]
 
 ```sh
 # Vulkan
@@ -18,10 +13,9 @@ sudo pacman -S winetricks
 yay -S dxvk-bin
 ```
 
-[^2]
+## Optional[^2]
 
 ```sh
-# Optional
 sudo pacman -S gamemode
 ```
 

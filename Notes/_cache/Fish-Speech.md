@@ -1,13 +1,8 @@
----
-description: SOTA Open Source TTS
-tags: audio
----
-
 ```sh
 git clone --depth=1 https://github.com/fishaudio/fish-speech
 cd fish-speech
 uv venv --python 3.12
-.venv\Scripts\activate
+.venv/Scripts/activate
 uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 uv pip install https://github.com/AnyaCoder/fish-speech/releases/download/v0.1.0/triton_windows-0.1.0-py3-none-any.whl
 uv pip install -e .

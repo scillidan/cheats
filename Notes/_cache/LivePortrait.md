@@ -1,8 +1,3 @@
----
-description: Efficient Portrait Animation with Stitching and Retargeting Control
-tags: video
----
-
 ```sh
 git clone --depth=1 https://github.com/KwaiVGI/LivePortrait
 cd LivePortrait

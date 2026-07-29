@@ -1,8 +1,3 @@
----
-description: Ultra-low-latency, self-hosted speech-to-text pipeline
-tags: audio
----
-
 ```sh
 git clone --depth=1 https://github.com/QuentinFuxa/WhisperLiveKit
 cd WhisperLiveKit

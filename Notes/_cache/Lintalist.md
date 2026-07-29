@@ -1,5 +1,4 @@
 ---
-description: Lintalist allows you to store and (incrementally) search and edit texts in bundles and paste a selected text in your active program
 tags: config
 ---
 

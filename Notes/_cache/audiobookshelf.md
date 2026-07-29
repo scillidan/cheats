@@ -1,8 +1,3 @@
----
-description: Self-hosted audiobook and podcast server
-tags: docker
----
-
 ```sh
 # https://www.audiobookshelf.org/docs/#docker-compose-install
 mkdir audiobookshelf

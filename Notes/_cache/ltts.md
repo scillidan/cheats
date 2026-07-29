@@ -1,8 +1,3 @@
----
-description: Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS
-tags: audio
----
-
 ```sh
 git clone --depth=1 https://github.com/fcjr/ltts
 cd ltts

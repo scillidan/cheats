@@ -1,7 +1,3 @@
----
-tags: text
----
-
 ```sh
 # https://github.com/vivliostyle/vivliostyle-cli
 bun add -g @vivliostyle/cli

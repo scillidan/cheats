@@ -1,5 +1,4 @@
 ---
-description: A feature-rich dictionary lookup program, supporting multiple dictionary formats
 tags: config
 ---
 

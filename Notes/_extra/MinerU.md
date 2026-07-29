@@ -1,8 +1,3 @@
----
-description: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows
-tags: text
----
-
 ```sh
 # https://opendatalab.github.io/MinerU/quick_start
 git clone --depth=1 https://github.com/opendatalab/MinerU

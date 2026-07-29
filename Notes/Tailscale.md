@@ -1,7 +1,3 @@
----
-tags: serve
----
-
 ```sh
 # Ubuntu 22 ARM
 curl -fsSL https://pkgs.tailscale.com/stable/ubuntu/noble.noarmor.gpg | sudo tee /usr/share/keyrings/tailscale-archive-keyring.gpg >/dev/null

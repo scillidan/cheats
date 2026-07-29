@@ -1,8 +1,3 @@
----
-description: Intelligent OCR System · Vue 3 Modern UI · Batch Processing · Multi-Mode Support
-tags: text
----
-
 ```sh
 git clone --depth=1 https://github.com/neosun100/DeepSeek-OCR-WebUI
 uv venv --python 3.12

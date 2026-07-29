@@ -1,8 +1,3 @@
----
-description: Generative Cartoon Interpolation
-tags: video
----
-
 ```sh
 git clone --depth=1 https://github.com/sdbds/ToonCrafter-for-windows
 # pyenv install 3.8.10
@@ -10,7 +5,7 @@ git clone --depth=1 https://github.com/sdbds/ToonCrafter-for-windows
 # python -m venv venv
 # venv\Scripts\activate
 uv venv --python 3.8.20
-.venv\Scripts\activate
+.venv/Scripts/activate
 uv pip install -r requirements-windows.txt
 ```
 
