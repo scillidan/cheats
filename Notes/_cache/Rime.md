@@ -1,4 +1,4 @@
-## Install on Arch[^1]
+## On Arch[^1]
 
 ```sh
 sudo pacman -S fcitx5-im fcitx5-gtk fcitx5-qt fcitx5-rime

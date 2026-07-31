@@ -1,4 +1,4 @@
-Install on Ubuntu 22 ARM [^1]\:
+On Ubuntu 22 ARM [^1]\:
 
 ```sh
 sudo apt install vsftpd

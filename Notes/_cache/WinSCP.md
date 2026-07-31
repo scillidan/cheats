@@ -1,7 +1,3 @@
----
-tags: usage
----
-
 - WinSCP → Synchronize:
 	```
 	Local directory: roms\

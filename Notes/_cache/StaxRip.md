@@ -1,7 +1,3 @@
----
-tags: usage
----
-
 - Staxrip
 	- AVS Filters
 		- Resize (On)

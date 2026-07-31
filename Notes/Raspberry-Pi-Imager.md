@@ -1,7 +1,3 @@
----
-tags: usage
----
-
 - Raspberry Pi Imager
 	1. Raspberry Pi Device → Choose Device → `Raspberry Pi 4`
 	2. Operating System → Choose OS → Other general-purpose OS → Ubuntu → `Ubuntu Server 22.04.4 LTS (64-bit)`

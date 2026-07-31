@@ -1,4 +1,4 @@
-## Install on Arch[^1][^2]
+## On Arch[^1][^2]
 
 ```sh
 sudo vim /etc/clamav/freshclam.conf

@@ -1,5 +1,5 @@
 ---
-tags: usage, windows
+tags: windows
 ---
 
 - MiKTeX Console → Tasks

@@ -1,5 +1,5 @@
 ---
-tags: usage, windows
+tags: windows
 ---
 
 1. 新建 ... 关闭.

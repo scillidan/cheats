@@ -1,4 +1,4 @@
-## On Windows
+## On Windows 10
 
 1. Check [Your GPU Compute Capability](https://developer.nvidia.com/cuda-gpus)
 2. Install `python 3.*` from [Python Releases for Windows](https://www.python.org/downloads/windows/)
