@@ -2,6 +2,8 @@
 tags: windows
 ---
 
+## Install
+
 ```pwsh
 Set-ExecutionPolicy ByPass -Scope Process -Force
 # If Scoop is installed or you need to re-install Scoop on an NTFS mount,
@@ -12,4 +14,11 @@ $env:SCOOP_GLOBAL='<path_to>\Scoop'
 [Environment]::SetEnvironmentVariable('SCOOP_GLOBAL', $env:SCOOP_GLOBAL, 'Machine')
 Get-ChildItem Env:
 iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
+```
+
+## Usage
+
+```
+scoop list <app>
+gsudo scoop reset <app>@version
 ```
