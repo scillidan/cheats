@@ -2,11 +2,6 @@
 tags: config
 ---
 
-```sh
-sudo pacman -S jackett
-scoop install jackett
-```
-
 ## On Ubuntu ARM[^1]
 
 ```sh
