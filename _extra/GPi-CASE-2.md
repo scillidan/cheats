@@ -1,7 +1,7 @@
 ## Choose a OS
 
-- [Recalbox](https://www.recalbox.com/) used [ES-DE](https://gitlab.com/es-de/emulationstation-de) with [Modern](https://gitlab.com/es-de/themes/modern-es-de) theme
-- [RetroPie](https://retropie.org.uk/) used [ES-DE](https://gitlab.com/es-de/emulationstation-de) as default frontend
+- [Recalbox](https://www.recalbox.com) used [ES-DE](https://gitlab.com/es-de/emulationstation-de) with [Modern](https://gitlab.com/es-de/themes/modern-es-de) theme
+- [RetroPie](https://retropie.org.uk) used [ES-DE](https://gitlab.com/es-de/emulationstation-de) as default frontend
 
 ## Flash OS to SD card
 
