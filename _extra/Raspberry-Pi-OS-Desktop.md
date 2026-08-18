@@ -15,3 +15,10 @@ sudo apt autoclean
 ```sh
 sudo apt install ./<.deb>
 ```
+
+## Game
+
+```sh
+sudo apt install love
+sudo apt install retroarch
+```

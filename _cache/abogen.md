@@ -5,7 +5,7 @@
 git clone --depth=1 https://github.com/denizsafak/abogen
 cd abogen
 uv venv
-source .venv/bin/activate
+.venv\Scripts\activate
 uv pip install torch torchaudio torchvision --index-url https://download.pytorch.org/whl/cu128
 uv pip install abogen
 abogen
