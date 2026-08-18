@@ -1,5 +1,11 @@
 ## Config
 
+### Enable SSH
+
+```sh
+sudo systemctl enable --now ssh
+```
+
 ### Locale
 
 ```sh
@@ -29,12 +35,6 @@ sudo raspi-config nonint do_configure_keyboard us
 ```sh
 sudo raspi-config nonint do_wifi_country CN
 sudo nmcli --ask dev wifi connect '<ssid>'
-```
-
-### Enable SSH
-
-```sh
-sudo systemctl enable --now ssh
 ```
 
 ### Use repository mirror

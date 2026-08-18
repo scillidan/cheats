@@ -5,8 +5,8 @@
 ## Clean
 
 ```sh
-sudo apt purge chromium chromium-common chromium-l10n chromium-sandbox rpi-chromium-mods
-sudo apt autoremove --purge
+sudo apt purge chromium chromium-common chromium-l10n chromium-sandbox rpi-chromium-mods vlc
+sudo apt autoremove --purge -y
 sudo apt autoclean
 ```
 
@@ -16,9 +16,10 @@ sudo apt autoclean
 sudo apt install ./<.deb>
 ```
 
-## Game
+## Install
 
 ```sh
+sudo apt install qutebrowser mpv
 sudo apt install love
 sudo apt install retroarch
 ```
