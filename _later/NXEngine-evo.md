@@ -1,5 +1,4 @@
 ---
-description: A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw
 tags: game
 ---
 
