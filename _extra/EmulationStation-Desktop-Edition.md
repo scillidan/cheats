@@ -16,7 +16,7 @@ chmod +x ~/Applications/ES-DE.AppImage
 
 ```sh
 mkdir -p ~/.local/share/icons
-cp squashfs-root/usr/share/icons/hicolor/<icon>.svg ~/.local/share/icons/es-de.svg
+cp ./squashfs-root/usr/share/icons/hicolor/.../<icon>.svg ~/.local/share/icons/es-de.svg
 ```
 
 ```sh
@@ -38,8 +38,8 @@ StartupNotify=true
 ## Add custom systems
 
 ```sh
-# Linux
-vim ~/.emulationstation/custom_systems/es_systems.xml
+# Raspberry Pi Desktop
+vim ~/ES-DE/custom_systems/es_systems.xml
 # Windows
 subl ES-DE\ES-DE\custom_systems\es_systems.xml
 ```
