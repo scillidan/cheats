@@ -7,7 +7,7 @@ tags: game
 ### Raspberry Pi Desktop
 
 ```sh
-wget https://github.com/scillidan/nxengine-evo-dist-zh-cn/releases/download/v2.6.5-1/NXEngine-Evo-v2.6.5-1-Linux-aarch64.AppImage
+wget https://github.com/scillidan/nxengine-evo-dist/releases/download/v2.6.5-1/NXEngine-Evo-v2.6.5-1-Linux-aarch64.AppImage
 ```
 
 ```sh
