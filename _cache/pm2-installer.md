@@ -12,6 +12,6 @@ sudo npm run setup
 sudo pm2 save
 ```
 
-Windows 10 → Control Panel → Administrative Tools > Services → PM2 → Properties → Log On → local system account → Go back to first tab → Start[^1].
+Windows 10 → Control Panel → Administrative Tools → Services → PM2 → Properties → Log On → local system account → Go back to first tab → Start[^1].
 
 [^1]: [State is now: Stopped](https://github.com/jessety/pm2-installer/issues/69)
