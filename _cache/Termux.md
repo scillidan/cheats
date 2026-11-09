@@ -48,7 +48,6 @@ pkg install \
   7zip \
   atuin \
   bat \
-  carapace \
   chafa \
   curl \
   eza \
@@ -64,31 +63,17 @@ pkg install \
   less \
   neovim \
   openssh \
-  pass \
   ripgrep \
   rust \
   sdcv \
   starship \
-  tmux \
   uv \
   vim \
   wget \
   yazi \
   yq \
-  zoxide
-```
-
-```sh
-# Cargo
-cargo install --force \
-  eva \
-  grex \
-  pipe-rename \
-  thumbs
-  # thes
-# Pip
-pip install \
-  subliminal
+  zoxide \
+  zellij
 ```
 
 ## Install Nerd Font[^3]
